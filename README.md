@@ -1,3 +1,3 @@
 # PF1-Hmw-1
 
-This code is rather clunky and doesnt function very well due to the fact we werent allowed to use hash maps on this assignment.
+This code repo is all my code from my programming class at my university.
